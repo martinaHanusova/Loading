@@ -1,3 +1,5 @@
+// Credit for https://futurestud.io
+
 package com.example.android.loading;
 
 import android.content.Context;
